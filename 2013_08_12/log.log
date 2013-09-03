@@ -1,0 +1,11 @@
+[INFO] Scanning for projects...
+[ERROR] The build could not read 1 project -> [Help 1]
+[ERROR]   
+[ERROR]   The project com.pan.sample1:jpaSample1:0.0.1-SNAPSHOT (/home/ubuntu13/dev/sample_code/jpaSample1/pom.xml) has 1 error
+[ERROR]     'dependencies.dependency.version' for mysql:mysql-connector-java:jar must be a valid version but is '${mysql.connector.version}'. @ line 29, column 13
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/ProjectBuildingException
